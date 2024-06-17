@@ -1,4 +1,4 @@
-# 29706
+# 29706/29721
 
 ## Current behavior
 
@@ -22,4 +22,5 @@ echo '# Trick renovate into working: "github:NixOS/nixpkgs/nixpkgs-unstable"' >>
 
 ## Link to the Renovate issue or Discussion
 
-https://github.com/renovatebot/renovate/discussions/29706
+- https://github.com/renovatebot/renovate/discussions/29706
+- https://github.com/renovatebot/renovate/issues/29721
